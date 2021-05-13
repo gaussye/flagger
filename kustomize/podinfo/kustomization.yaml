@@ -1,4 +1,4 @@
-namespace: test
+namespace: testing
 resources:
   - hpa.yaml
   - deployment.yaml
